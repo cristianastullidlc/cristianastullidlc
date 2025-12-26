@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hola, soy Cristian Astulli
 
-<!--
-**cristianastullidlc/cristianastullidlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante avanzado de Ingeniería en Sistemas (UTN)  
+💻 Desarrollador Backend Jr / Fullstack Jr  
+📍 Buenos Aires, Argentina  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías
+- Java | Spring Boot | SQL | MySQL
+- JavaScript | Express | React | HTML | CSS
+- REST APIs
+- Git | GitHub | Postman | JUnit | JWT
+- UML 
+
+---
+
+## 📌 Proyectos Destacados
+### 🛒 E-commerce Fullstack
+Frontend en React y backend con JavaScript.  
+🔗 Repositorio: [link]  
+🌐 Demo: [link]
+
+### 📍 Sistema de Localización de Hechos Meteorológicos
+Backend en Java con arquitectura MVC y cliente liviano HandleBars.  
+🔗 Repositorio: 
+🌐 Deploy prueba: https://tpa-entrega-final.onrender.com/home
+
+### 🗓️ Sistema de Gestión de Turnos (en desarrollo)
+Fullstack con React + Spring Boot + JWT.  
+🔗 Repositorio: [link]
+🌐 Demo: [link]
+---
+
+## 📄 CV y Certificaciones
+- 📄 [Currículum Vitae](link)
+- 📜 [Certificado Spring Boot – TodoCode](https://todocodeacademy.com/certificate/spring-boot-sau/)
+- 📜 [EF SET English Certificate](https://cert.efset.org/MJNK4P)
+
+---
+
+## 📫 Contacto
+- 📧 Email: cristianastullidlc@gmail.com
+- 💼 LinkedIn: [link]
