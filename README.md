@@ -26,14 +26,10 @@ Backend en Java con arquitectura MVC y cliente liviano HandleBars.
 🔗 Repositorio: https://github.com/cristianastullidlc/metamapa
 🌐 Deploy prueba: https://tpa-entrega-final.onrender.com/home
 
-### 🗓️ Sistema de Gestión de Turnos (en desarrollo)
-Fullstack con React + Spring Boot + JWT.  
-🔗 Repositorio: [link]
-🌐 Demo: [link]
 ---
 
 ## 📄 CV y Certificaciones
-- 📄 [Currículum Vitae](link)
+- 📄 [Currículum Vitae](https://docs.google.com/document/d/1lBhCImBPLQJD1JKR-Zs-iToIAxLa2vS77AcxqLYKFkk/edit?usp=sharing)
 - 📜 [Certificado Spring Boot – TodoCode](https://todocodeacademy.com/certificate/spring-boot-sau/)
 - 📜 [EF SET English Certificate](https://cert.efset.org/MJNK4P)
 
@@ -41,4 +37,3 @@ Fullstack con React + Spring Boot + JWT.
 
 ## 📫 Contacto
 - 📧 Email: cristianastullidlc@gmail.com
-- 💼 LinkedIn: [link]
