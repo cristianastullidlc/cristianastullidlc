@@ -18,12 +18,12 @@
 ## 📌 Proyectos Destacados
 ### 🛒 E-commerce Fullstack
 Frontend en React y backend con JavaScript.  
-🔗 Repositorio: [link]  
-🌐 Demo: [link]
+🔗 Repositorio: https://github.com/cristianastullidlc/ecommerce-tiendasol
+🌐 Demo: https://drive.google.com/file/d/1ISe824452fR1M8vEuz-tz6kXnzODwaKu/view?usp=drive_link
 
 ### 📍 Sistema de Localización de Hechos Meteorológicos
 Backend en Java con arquitectura MVC y cliente liviano HandleBars.  
-🔗 Repositorio: 
+🔗 Repositorio: https://github.com/cristianastullidlc/metamapa
 🌐 Deploy prueba: https://tpa-entrega-final.onrender.com/home
 
 ### 🗓️ Sistema de Gestión de Turnos (en desarrollo)
