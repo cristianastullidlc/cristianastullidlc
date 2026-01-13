@@ -11,7 +11,7 @@
 - JavaScript | Express | React | HTML | CSS
 - REST APIs
 - Git | GitHub | Postman | JUnit | JWT
-- UML 
+- UML | Excel intermedio
 
 ---
 
