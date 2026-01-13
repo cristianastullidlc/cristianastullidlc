@@ -36,4 +36,4 @@ Backend en Java con arquitectura MVC y cliente liviano HandleBars.
 ---
 
 ## 📫 Contacto
-- 📧 Email: cristianastullidlc@gmail.com
+- 📧 Email: castullidelacruz@gmail.com
