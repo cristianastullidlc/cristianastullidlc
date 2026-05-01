@@ -24,7 +24,6 @@ Frontend en React y backend con JavaScript.
 ### 📍 Sistema de Localización de Hechos Meteorológicos
 Backend en Java con arquitectura MVC y cliente liviano HandleBars.  
 🔗 Repositorio: https://github.com/cristianastullidlc/metamapa
-🌐 Deploy prueba: https://tpa-entrega-final.onrender.com/home
 
 ---
 
